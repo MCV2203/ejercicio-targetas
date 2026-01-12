@@ -1,0 +1,43 @@
+body {
+    width: 1440px;
+    height: 926px;
+    border: 1px solid black;
+    font-family: "Lexend Deca", sans-serif;
+    font-weight: normal;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 316px;
+    height: 402px;
+    border-radius: 24px;
+    
+}
+
+h2 {
+   font-size: 40px; 
+   color: #25252540;
+   margin: 0px;
+}
+
+.cuadro {
+    width: 316px;
+    height: 559px;
+    margin: 8px;
+}
+
+p {
+    font-size: 24px;
+}
+
+h1 {
+    width: 833px;
+    height: 176px;
+    font-size: 67px;
+    margin-left: 64px;
+    color: #252525;
+}

@@ -1,0 +1,37 @@
+body {
+  background-color: rgb(22, 0, 73);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  font-family: sans-serif;
+}
+
+.contenedor {
+  border: 5px solid rgb(255, 255, 255);
+  background-color: rgb(0, 0, 0);
+  padding: 20px 40px;
+  width: 1200px;
+  border-radius: 20px;
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.naranja {
+  color: rgb(255, 255, 255);
+  font-size: 36px;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 20px;
+  background-color: rgb(0, 0, 0);
+  width: 100%;
+  color: rgb(255, 255, 255);
+  margin-bottom: 40px;
+  text-align: center;
+  border-bottom: 5px solid rgb(255, 255, 255);
+  font-size: 30px;
+}

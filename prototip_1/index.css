@@ -1,0 +1,66 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container3 {
+  border: #000000 2px solid;
+  height: 954px;
+  width: 1440px;
+}
+
+.titulo {
+  color: #000000;
+  font-family: "BBH Sans Bartle", sans-serif;
+  width: 700px;
+  height: 50px;
+  font-size: 80px;
+  padding: 0px 0px 80px 70px;
+}
+
+.divtitulo {
+  display: flex;
+  flex-direction: column;
+}
+
+.divp {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  font-family: Arial, sans-serif;
+  width: 700px;
+  height: auto;
+  font-size: 25px;
+}
+
+.container {
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+}
+
+.item {
+  text-align: left;
+  font-size: 25px;
+  color: gray;
+}
+
+.item2 {
+  width: 400px;
+  text-align: left;
+  font-size: 25px;
+  color: gray;
+}
+
+.item2 h3 {
+  font-family: "BBH Sans Bartle", sans-serif;
+  font-size: 35px;
+  margin-bottom: 10px;
+}
+
+.imgenes-pequenas {
+  width: 400px;
+  height: 345px;
+  object-fit: cover;
+
+}

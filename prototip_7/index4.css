@@ -1,0 +1,66 @@
+body {
+    width: 1440px;
+    height: 926px;
+    background-color: #2F2F2F;
+    border: solid white 1px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 80px;
+}
+
+h1 {
+    font-size: 72px;
+    font-family: Poppins;
+    line-height: 100%;
+}
+
+p {
+    font-size: 24px;
+    font-family: Poppins;
+    color: white;
+}
+
+.design {
+    color: #fec3c7;
+}
+
+.create {
+    color: #92cae4;
+}
+
+.inspire {
+    color: #67d4d0;
+}
+
+.contenedor {
+    border: white;
+    margin-top: 169px;
+    margin-left: 132px;
+    width: 449px;
+    height: 582px;
+}
+
+.galeria {
+    width: 742px;
+    height: 792px;
+    margin-top: 67px;
+}
+
+button {
+    width: 182px;
+    height: 66px;
+    border-radius: 36px;
+    background-color: white;
+    color: #232323;
+    font-family: Poppins;
+    font-size: 24px;
+    line-height: 18px;
+}
+
+img {
+    width: 172px;
+    height: 192px;
+    border-radius: 40px;
+    object-fit: cover;
+}

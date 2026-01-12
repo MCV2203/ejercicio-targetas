@@ -1,0 +1,116 @@
+body {
+    background: linear-gradient(to bottom, #08202b, #043e4a);
+    font-family: "Lexend Deca", sans-serif;
+}
+
+.container {
+    width: 1440px;
+    height: 1024px;
+    background-image: url(images/1.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+.container1 {
+    width: 632px;
+    height: 458px;
+    margin-left: 56px;
+    margin-top: 153px;
+    color: white;
+    border-radius: 30px;
+    background-color: rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(4px);
+    font-family: 'Arial', sans-serif;
+    padding: 50px;
+}
+
+.container1 h1 {
+    font-size: 64px;
+    font-weight: bold;
+    line-height: 1.2;
+}
+
+.container1 p {
+    font-size: 26px;
+    line-height: 1.5;
+}
+
+.container1 button {
+    border-radius: 50px;
+    background-color: #63e0e0;
+    width: 182px;
+    height: 66px;
+    font-size: 24px;
+}
+
+.colores {
+    display: flex;
+}
+
+.color1 {
+    background-color: yellow;
+    color: yellow;
+    width: 16px;
+    height: 16px;
+}
+.color2 {
+    background-color: #3fffff;
+    color: #3fffff;
+    width: 16px;
+    height: 16px;
+}
+.color3 {
+    background-color: #52dc4b;
+    color: #52dc4b;
+    width: 16px;
+    height: 16px;
+}
+.color4 {
+    background-color: #ff6e3d;
+    color: #ff6e3d;
+    width: 16px;
+    height: 16px;
+}
+.color5 {
+    background-color: blue;
+    color: blue;
+    width: 16px;
+    height: 16px;
+}
+
+.container2 {
+    width: 1222px;
+    height: 75px;
+    margin-left: 56px;
+    margin-top: 80px;
+    color: white;
+    border-radius: 40px;
+    border: white 1px solid;
+    background-color: rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(4px);
+    font-family: 'Arial', sans-serif;
+    padding: 50px;
+}
+
+.col1, .col2, .col3, .col4 {
+    display: inline-block;
+    margin: -40px 30px 10px 40px;
+    width: 230px;
+    height: 100px;
+    border-radius: 15px;
+    
+}
+
+.col1, .col2, .col3, .col4 h3{
+    font-size: 24px;
+}
+
+.col1, .col2, .col3, .col4 p{
+    font-size: 18px;
+}
+
+img{
+    width: 33px;
+    height: 26px;
+}

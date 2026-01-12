@@ -1,0 +1,79 @@
+body {
+  font-family: "Lexend Deca", sans-serif;
+}
+
+.container3 {
+  border: #000000 2px solid;
+  height: 1139px;
+  width: 1440px;
+}
+
+.titulo {
+  display: flex;
+  justify-content: center;
+  color: #000000;
+  font-family: "BBH Sans Bartle", sans-serif;
+  width: 700px;
+  height: 50px;
+  font-size: 60px;
+  padding: 0px 0px 40px 0px;
+}
+
+.divtitulo {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+}
+
+.divp {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  font-family: Arial, sans-serif;
+  width: 700px;
+  height: auto;
+  font-size: 25px;
+}
+
+.botones {
+  display: flex;
+  justify-content: center;
+  align-items: center;      
+  margin: 0 auto 50px auto; 
+  border-radius: 20px;
+  border: 2px solid #ffffff;
+  width: 150px;
+  height: 50px;
+  background-color: #000000;
+  color: #ffffff;
+  font-size: 15px;          
+  text-align: center;       
+}
+
+
+.container {
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.imgenes-pequenas {
+  width: 300px;
+  height: 300px;
+  border-radius: 10px;
+  object-fit: cover;
+
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
