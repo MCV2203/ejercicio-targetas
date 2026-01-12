@@ -1,6 +1,14 @@
 body {
-    background: linear-gradient(to bottom, #08202b, #043e4a);
+    background-color: gray;
     font-family: "Lexend Deca", sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+.blanco {
+    background: linear-gradient(to bottom, #08202b, #043e4a);
+    width: 1440px;
+    height: 1024px;
 }
 
 .container {

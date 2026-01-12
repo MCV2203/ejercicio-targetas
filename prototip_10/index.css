@@ -21,6 +21,7 @@
   flex-wrap: wrap-reverse;
   border: 2px solid #000000;
   margin: 50px 100px 100px 100px;
+  background-color: white;
 }
 
 .foto {
@@ -42,4 +43,5 @@
 
 body {
   font-family: "Lexend Deca", sans-serif;
+  background-color: gray;
 }

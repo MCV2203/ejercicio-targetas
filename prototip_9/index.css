@@ -1,5 +1,15 @@
 body {
   font-family: "Lexend Deca", sans-serif;
+  display: flex;
+  justify-content: center;
+  background-color: gray;
+}
+
+.blanco {
+  background-color: white;
+  height: 1139px;
+  width: 1440px;
+
 }
 
 .container3 {

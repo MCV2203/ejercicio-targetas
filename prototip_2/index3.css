@@ -1,9 +1,17 @@
 body {
+    font-family: "Lexend Deca", sans-serif;
+    font-weight: normal;
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blanco {
+    background-color: white;
     width: 1440px;
     height: 926px;
     border: 1px solid black;
-    font-family: "Lexend Deca", sans-serif;
-    font-weight: normal;
 }
 
 .flex {

@@ -1,9 +1,16 @@
 body {
+    font-family: "Lexend Deca", sans-serif;
+    color: #252525;
+    display: flex;
+    justify-content: center;
+    background-color: gray;
+}
+
+.blanco {
     width: 1440px;
     height: 1272px;
     border: 1px solid black;
-    font-family: "Lexend Deca", sans-serif;
-    color: #252525;
+    background-color: white;
 }
 
 .imagen1 {

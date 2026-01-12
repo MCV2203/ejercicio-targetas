@@ -1,12 +1,19 @@
 body {
     width: 1440px;
     height: 926px;
-    background-color: #2F2F2F;
-    border: solid white 1px;
+    background-color: grey;
+    border: solid rgb(0, 0, 0) 1px;
     display: flex;
-    justify-content: flex-start;
-    align-items: flex-start;
+    justify-content: center;
+    align-items: center;
     gap: 80px;
+}
+
+.blanco {
+    width: 1440px;
+    height: 926px;
+    background-color: #2F2F2F;
+    display: flex;
 }
 
 h1 {

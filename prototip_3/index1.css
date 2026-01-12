@@ -1,15 +1,21 @@
 body {
     font-family: "Lexend Deca", sans-serif;
+    background-color: grey;
+    color: #252525;
+    display: flex;
+    justify-content: center;
+}
+
+.blanco {
     width: 1440px;
     height: 1204px;
-    padding: 16px;
-    background-color: rgb(255, 255, 255);
-    color: #252525;
-    align-items: center;
+    background-color: white;
 }
 
 .contenedor {
     border: 1px solid black;
+    width: 1440px;
+    height: 1204px;
 }
 
 h1 {
